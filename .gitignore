@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Large model files
+*.pt
+*.pth
+*.dylib
+
+# System files
+.DS_Store
+.git/gc.log
+
+# Output files
+output_videos/*.avivenv/
+venv/
+*.mp4
+venv/
+*.mp4
+*.csv
+
+
+
